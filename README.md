@@ -21,6 +21,4 @@ Some featured work below:
 
 Currently working on an **asynchronous networked game in Rust / Bevy**.
 
-Links:  
-YouTube → https://www.youtube.com/@V4LKdev        
-LinkedIn → https://www.linkedin.com/in/nicolasmartin-dev/
+[Links](https://v4lkdev.github.io/links/)
